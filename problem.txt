@@ -1,0 +1,8 @@
+
+-point each grid in the matrix
+    - 2 points if the grid is mine
+    - 1 if the grid is empty
+    - 0 for the oponent grid 
+-we obtain a score by adding the points by checking all the adjacent grids in all valid directions
+-update the grid with the movement with the maximum number of points
+
