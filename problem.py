@@ -328,3 +328,7 @@ while not winner:
     chosen_col, y = find_opt_col(v_available, matrix, k, r)
     #print_ma(matrix)
     print(y + 1)
+
+
+
+    ##some comments
